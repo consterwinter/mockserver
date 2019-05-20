@@ -35,15 +35,7 @@
 
 欢迎star,并提出改进意见
 
-### 支持作者
 
-#### 微信
-
-<img src="https://github.com/flftfqwxf/mockserver/blob/master/666.png" width="300">
-
-#### 淘宝
-
-<img src="https://github.com/flftfqwxf/mockserver/blob/master/777.png" width="300">
 
 ## Install dependencies
 
